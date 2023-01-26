@@ -129,6 +129,29 @@ h1 {
 	left: 120px; 
 }
 
+.btnn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+  color: #e2dbdb;
+}
+
+.btnn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
+.btnn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
+.btnn-xl {
+  padding: 1rem 2rem;
+
+}
+
 
 
 
